@@ -12,9 +12,9 @@ These instructions will help you set up the project and run the automated tests 
 - Maven
 - Chrome WebDriver
 
-##Tests automated:
--1.Check if invalid login throws errorr.
--2.Check the fields and button for "Watch Demo" page.
--3.Check for filed displayed in "Scheduled Demo" page.
--4.Verify the title of the homepage using scripts.
+### Tests:
+- 1.Check if invalid login throws errorr.
+- 2.Check the fields and button for "Watch Demo" page.
+- 3.Check for filed displayed in "Scheduled Demo" page.
+- 4.Verify the title of the homepage using scripts.
 
